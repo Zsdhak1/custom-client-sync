@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "enabled_topics": [
+    "AirSupportStatusSync",
+    "Buff",
+    "CustomByteBlock",
+    "DartSelectTargetStatusSync",
+    "DeployModeStatusSync",
+    "Event",
+    "GameStatus",
+    "GlobalLogisticsStatus",
+    "GlobalSpecialMechanism",
+    "GlobalUnitStatus",
+    "MapClickInfo",
+    "PenaltyInfo",
+    "RadarInfoToClient",
+    "RobotDynamicStatus",
+    "RobotInjuryStat",
+    "RobotModuleStatus",
+    "RobotPathPlanInfo",
+    "RobotPerformanceSelectionSync",
+    "RobotPosition",
+    "RobotRespawnStatus",
+    "RobotStaticStatus",
+    "RuneStatusSync",
+    "SentryCtrlResult",
+    "SentryStatusSync",
+    "TechCoreMotionStateSync"
+  ]
+}
