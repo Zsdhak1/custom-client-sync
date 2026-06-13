@@ -1,0 +1,135 @@
+{
+  "schema_version": "2.0",
+  "export_time": "2026-06-12T08:10:46.408749Z",
+  "app_version": "0.1.0+1",
+  "metadata": {
+    "robot_id": 1,
+    "match_start_time": "2026-06-12T08:09:43.358723Z",
+    "duration_seconds": 115,
+    "message_count": 8,
+    "bucket_count": 3
+  },
+  "messages": [
+    {
+      "timestamp": "2026-06-12T08:09:28.531500Z",
+      "topic": "GameStatus",
+      "type": "GameStatus",
+      "payload": {
+        "currentRound": 0,
+        "totalRounds": 0,
+        "redScore": 0,
+        "blueScore": 0,
+        "currentStage": 0,
+        "stageCountdownSec": 0,
+        "stageElapsedSec": 0,
+        "isPaused": false
+      }
+    },
+    {
+      "timestamp": "2026-06-12T08:09:29.754058Z",
+      "topic": "GlobalUnitStatus",
+      "type": "GlobalUnitStatus",
+      "payload": {
+        "baseHealth": 0,
+        "baseStatus": 0,
+        "baseShield": 0,
+        "outpostHealth": 0,
+        "outpostStatus": 0,
+        "enemyBaseHealth": 0,
+        "enemyBaseStatus": 0,
+        "enemyBaseShield": 0,
+        "enemyOutpostHealth": 0,
+        "enemyOutpostStatus": 0,
+        "totalDamageAlly": 0,
+        "totalDamageEnemy": 0
+      }
+    },
+    {
+      "timestamp": "2026-06-12T08:09:43.357759Z",
+      "topic": "GameStatus",
+      "type": "GameStatus",
+      "payload": {
+        "currentRound": 0,
+        "totalRounds": 0,
+        "redScore": 0,
+        "blueScore": 0,
+        "currentStage": 4,
+        "stageCountdownSec": 0,
+        "stageElapsedSec": 0,
+        "isPaused": false
+      }
+    },
+    {
+      "timestamp": "2026-06-12T08:09:56.721498Z",
+      "topic": "GlobalUnitStatus",
+      "type": "GlobalUnitStatus",
+      "payload": {
+        "baseHealth": 0,
+        "baseStatus": 0,
+        "baseShield": 0,
+        "outpostHealth": 0,
+        "outpostStatus": 0,
+        "enemyBaseHealth": 0,
+        "enemyBaseStatus": 0,
+        "enemyBaseShield": 0,
+        "enemyOutpostHealth": 0,
+        "enemyOutpostStatus": 0,
+        "robotHealth": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "totalDamageAlly": 0,
+        "totalDamageEnemy": 0
+      }
+    },
+    {
+      "timestamp": "2026-06-12T08:10:05.061802Z",
+      "topic": "Event",
+      "type": "Event",
+      "payload": {
+        "eventId": 1,
+        "param": "1,1"
+      }
+    },
+    {
+      "timestamp": "2026-06-12T08:10:08.338584Z",
+      "topic": "Event",
+      "type": "Event",
+      "payload": {
+        "eventId": 2,
+        "param": "1,1"
+      }
+    },
+    {
+      "timestamp": "2026-06-12T08:10:11.529850Z",
+      "topic": "Event",
+      "type": "Event",
+      "payload": {
+        "eventId": 3,
+        "param": "1,1"
+      }
+    },
+    {
+      "timestamp": "2026-06-12T08:10:19.368330Z",
+      "topic": "GameStatus",
+      "type": "GameStatus",
+      "payload": {
+        "currentRound": 0,
+        "totalRounds": 0,
+        "redScore": 0,
+        "blueScore": 0,
+        "currentStage": 5,
+        "stageCountdownSec": 0,
+        "stageElapsedSec": 0,
+        "isPaused": false
+      }
+    }
+  ]
+}
